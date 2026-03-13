@@ -9,6 +9,7 @@ The program creates a Student class with a method that prints a message when cal
 This example helps beginners understand how classes, objects, and methods work in Python.
 
 ⚙️ Source Code
+
 class Student:
     def display(self):
         print("Hello I am a student")
