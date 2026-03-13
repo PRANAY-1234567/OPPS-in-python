@@ -98,5 +98,4 @@ How to create objects
 How methods work inside classes
 
 Basic structure of Object-Oriented Programming in Python
-
 👨‍💻 This program is a beginner example for learning OOP concepts in Python.
